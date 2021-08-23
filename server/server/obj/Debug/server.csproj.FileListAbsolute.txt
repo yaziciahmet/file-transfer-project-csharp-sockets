@@ -1,0 +1,12 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\bin\Debug\server.pdb
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Form1.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Documents\Visual Studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\cs408-lab\Desktop\Lab 1-20201104T110144Z-001\Lab 1\socket_programming_examples\socket_programming_examples\server\server\bin\Debug\server.exe.config
+C:\Users\cs408-lab\Desktop\Lab 1-20201104T110144Z-001\Lab 1\socket_programming_examples\socket_programming_examples\server\server\obj\Debug\server.exe
+C:\Users\cs408-lab\Desktop\Lab 1-20201104T110144Z-001\Lab 1\socket_programming_examples\socket_programming_examples\server\server\obj\Debug\server.pdb
