@@ -1,0 +1,9 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.pdb
