@@ -1,0 +1,19 @@
+D:\Alpobaba\Alpobaba\School\2020-2021 Fall\CS 408\Project\Step2\Client\client\obj\Debug\client.csprojAssemblyReference.cache
+D:\Alpobaba\Alpobaba\School\2020-2021 Fall\CS 408\Project\Step2\Client\client\obj\Debug\client.Form1.resources
+D:\Alpobaba\Alpobaba\School\2020-2021 Fall\CS 408\Project\Step2\Client\client\obj\Debug\client.Properties.Resources.resources
+D:\Alpobaba\Alpobaba\School\2020-2021 Fall\CS 408\Project\Step2\Client\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\Alpobaba\Alpobaba\School\2020-2021 Fall\CS 408\Project\Step2\Client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\Alpobaba\Alpobaba\School\2020-2021 Fall\CS 408\Project\Step2\Client\client\bin\Debug\client.exe.config
+D:\Alpobaba\Alpobaba\School\2020-2021 Fall\CS 408\Project\Step2\Client\client\bin\Debug\client.exe
+D:\Alpobaba\Alpobaba\School\2020-2021 Fall\CS 408\Project\Step2\Client\client\bin\Debug\client.pdb
+D:\Alpobaba\Alpobaba\School\2020-2021 Fall\CS 408\Project\Step2\Client\client\obj\Debug\client.exe
+D:\Alpobaba\Alpobaba\School\2020-2021 Fall\CS 408\Project\Step2\Client\client\obj\Debug\client.pdb
+C:\Users\AHMET\Desktop\CS408_Project\Client\client\bin\Debug\client.exe.config
+C:\Users\AHMET\Desktop\CS408_Project\Client\client\obj\Debug\client.exe
+C:\Users\AHMET\Desktop\CS408_Project\Client\client\obj\Debug\client.pdb
+C:\Users\AHMET\Desktop\CS408_Project\Client\client\bin\Debug\client.exe
+C:\Users\AHMET\Desktop\CS408_Project\Client\client\bin\Debug\client.pdb
+C:\Users\AHMET\Desktop\CS408_Project\Client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\CS408_Project\Client\client\obj\Debug\client.Form1.resources
+C:\Users\AHMET\Desktop\CS408_Project\Client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\AHMET\Desktop\CS408_Project\Client\client\obj\Debug\client.csproj.GenerateResource.Cache
